@@ -1,7 +1,7 @@
 # yolov8-opencv-onnxruntime-cpp
 
 ## 目标检测运行代码
-cd build && cmake .. && make
+cd build && cmake .. && make    
 ./YOLOv8
 
 ## 使用OpenCV-dnn和ONNXRuntime部署yolov8目标检测和实例分割模型<br>
